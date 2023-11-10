@@ -6,7 +6,7 @@ LMS stands for Learning Management System. This simple admin portal allow admins
 - Frontend: ReactJS.
 
 ### Dependencies
-- axios
+- axios.
 
 ### Features
 - Create, manage and search profiles for students.
