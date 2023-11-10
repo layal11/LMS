@@ -1,0 +1,10 @@
+.dashboardContainer{
+    display: flex;
+    margin-top: 10px;
+}
+
+
+.dashboardLink{
+    text-decoration: none;
+    color: inherit;
+}
