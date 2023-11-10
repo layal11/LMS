@@ -1,9 +1,12 @@
 # Learning Management System
 LMS stands for Learning Management System. This simple admin portal allow admins/teachers to communicate with students online more effectively.
 
-### Stack used
+### Stack 
 - Backend: Laravel.
 - Frontend: ReactJS.
+
+### Dependencies
+- axios
 
 ### Features
 - Create, manage and search profiles for students.
